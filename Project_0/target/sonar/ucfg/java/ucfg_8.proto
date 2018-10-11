@@ -1,0 +1,55 @@
+
+Rbackend.AccountLayer#createNewBankingAccount(Ljava/lang/String;Z)Lmessage/Message;
+__unknown_file (bankName
+isChecking"3"4*à
+1r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.java¸ ¸(¯
+r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaº º(;%3__concat"
+Bank Account switched to "
+
+
+bankName¶
+r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaº	 º(?%4,message.Message#<init>(Ljava/lang/String;I)V"
+
+%3"
+"""|
+r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaº º(@
+""*ö
+2r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.java· ·(bþ
+r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.java·
+ ·(f%2,message.Message#<init>(Ljava/lang/String;I)V"NL
+JError in creating Baniking account! Bank Account name might already exist!"
+"""|
+r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.java· ·(g
+""*è
+3r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.java± ±(%æ
+r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.java³ ³(i%16backend.BankingAccount#<init>(IBLjava/lang/String;ZI)V"
+"""
+"""
+
+
+bankName"
+
+
+isChecking"
+""*
+2
+1*®
+4r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.java¯ ¯(!¶
+r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.java¯
+ ¯(&%0,message.Message#<init>(Ljava/lang/String;I)V"
+"""
+"""|
+r
+fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.java¯ ¯('
+""
