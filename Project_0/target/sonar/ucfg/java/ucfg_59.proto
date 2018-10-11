@@ -1,61 +1,0 @@
-
-[frontend.BankTerminal#promptFloat(Ljava/util/Scanner;Ljava/lang/String;Ljava/lang/String;)F
-__unknown_file (scuserNamepurpose"7*˜
-1s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaß	 ß("}
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaß ß(
-""*ª
-4s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaü
- ü(∏
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaü
- ü($%7/java.lang.Float#parseFloat(Ljava/lang/String;)F"
-
-
-response*
-5
-1*⁄	
-5s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaõ õ(ö
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaõ õ(%1__concat"
---<"
-
-
-userNameï
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaõ õ('%2__concat"
-
-%1"
->--[ò
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaõ õ(/%3__concat"
-
-%2"
-	
-purposeï
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaõ õ(6%4__concat"
-
-%3"
-]-->∂
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaõ õ(7%53org.apache.log4j.Category#info(Ljava/lang/Object;)V"
-
-%4©
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaú ú("%6.java.util.Scanner#nextLine()Ljava/lang/String;ç
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaú ú(#response__id"
-
-%6*
-4*ç
-7s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javañ ñ(ä
-s
-gC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\frontend\BankTerminal.javaò ò(f%03org.apache.log4j.Category#info(Ljava/lang/Object;)V"ZX
-VEnter a float! Note, extra precision is acceptable but may be cut off upon rounding!\n*
-5
-1

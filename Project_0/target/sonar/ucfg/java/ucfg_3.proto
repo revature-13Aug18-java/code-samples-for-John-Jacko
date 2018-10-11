@@ -1,77 +1,0 @@
-
-“backend.AccountLayer#createNewAccount(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)Lmessage/Message;
-__unknown_file (userNamepassword	firstNamelastNamebankingName
-isChecking"5*ý
-1p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaT T(¿
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaW W(M%8__concat"/-
-+Account Created! You are now logged on as <"
-
-
-userName
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaW W(R%9__concat"
-
-%8"
->µ
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaW	 W(U%10,message.Message#<init>(Ljava/lang/String;I)V"
-
-%9"
-"""z
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaW W(V
-""*ï
-2p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaQ Q(aû
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaQ
- Q(d%7,message.Message#<init>(Ljava/lang/String;I)V"MK
-IError in creating Banking account! Bank Account name might already exist!"
-"""z
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaQ Q(e
-""*ä
-4p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaL L(Vð
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaL
- L(Y%6,message.Message#<init>(Ljava/lang/String;I)V"B@
->Error in creating User Account! User Name might already exist!"
-"""z
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaL L(Z
-""*Ü
-5p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaB B(ö
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaE E(A%3Sbackend.UserAccount#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V"
-
-
-userName"
-
-	firstName"
-
-
-lastNameç
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaF F(P%46backend.BankingAccount#<init>(IBLjava/lang/String;ZI)V"
-"""
-"""
-
-bankingName"
-
-
-isChecking"
-""ö
-p
-fC:\Users\jljac\Documents\workspace-sts-3.9.5.RELEASE\Project_0\src\main\java\backend\AccountLayer.javaJ J(5%5`backend.UserDao#createUserAccount(Lbackend/UserAccount;Ljava/lang/String;Ljava/sql/Connection;)I"
-"""
-
-
-password"
-""*	
-2
-4
-1
