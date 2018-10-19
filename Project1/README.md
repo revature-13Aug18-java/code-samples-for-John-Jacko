@@ -1,3 +1,6 @@
+# Project 1
+## Employee Reimbursement System
+
 Project one was similar to project 0, only it was an Employee reinbursement system. There are
  2 types of Users: Employee and Manager. Employees can make reimbursement requests as 
  well as view their own. Managers can view/filter requests as well as Approve or reject requests.

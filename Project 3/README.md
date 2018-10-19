@@ -1,3 +1,9 @@
+# Project 3
+## RideForce
+
+### Main Role:
+#### Font-end
+
 Project 3 was a batchwide project. I was in the front-end team, which utilized Angular/Typescript -
  similar to Project 2. Project three was a system that could be used to facilitate communication
  between Revature "Drivers" and those who would ride with them to and from work.

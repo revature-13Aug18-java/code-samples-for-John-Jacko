@@ -1,3 +1,9 @@
+# Project 2
+## Quizzie
+
+### Main Role
+#### Controllers, 3 front-end angular components, DevOps
+
 Project 2 was a collaborative effort consisting of two other individuals coming together and
  working on a quiz system called "Quizzie". There are two major parts of the project: the Front-
  end and the back-end. The Front-end utilized Angular/Typescript while the back-end utilized the

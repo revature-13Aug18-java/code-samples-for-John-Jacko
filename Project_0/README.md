@@ -1,3 +1,6 @@
+# Project 0
+## Banking App
+
 Project 0 was a Banking app that was meant to host User accounts from which a User can log
  on and "deposit" money as well as "withdraw" money. The Technologies used were Core Java 
  and SQL, with JDBC allowing the back-end to communicate with an Oracle database.
